@@ -1,0 +1,49 @@
+*{
+    background:url('file:///storage/emulated/0/Android/data/com.teejay.trebedit/files/TrebEdit user files/Sample project - Acme/img/images (4).jpeg');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: darken;
+    
+}
+#title{
+    font-style: arial;
+    color: white;
+    text-align: center;
+    text-shadow: 10px;
+    }
+.you{
+    text-align: center;
+    background-color: black;
+    color: white;
+    mix-blend-mode: screen;
+    
+    
+    }
+#you{
+    background-color: ;
+    text-align: center;
+    clip-path: circle(19px);
+    
+    
+    
+}
+.full{
+    width: 270px;
+    height: 3000px;
+    margin: 20px auto;
+    border: 2px solid;
+    border-radius:30px ;
+    border-color: #ff892b;  
+}
+#insta{
+    background-color: ;
+    text-align: center;
+    clip-path: circle(19px);
+    
+}
+.information{
+    font-size: 15px;
+    color: white;
+    line-height: 40px;
+    
